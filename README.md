@@ -36,5 +36,9 @@ Created a React-based interface for tracking key analytics metrics using integra
 
 
 ![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Piyush-Pant2023&show_icons=true&theme=radical)
+![Piyush's Trophies](https://github-profile-trophy.vercel.app/?username=Piyush-Pant2023&theme=radical)
+![Piyush's Streak](https://streak-stats.demolab.com?user=Piyush-Pant2023&theme=radical)
+
+
 
 

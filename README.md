@@ -3,11 +3,10 @@ Hi 👋, I'm Piyush Pant
 
 I'm a dedicated professional with experience in data analytics, Java script, and the React framework. I’m passionate about deriving actionable insights from data, building efficient workflows, and staying updated with the latest analytics tools and technologies.
 
-🌐 Portfolio: Coming Soon!
-📄 Resume: View Resume
+📄 Resume: 
 💼 LinkedIn: Piyush Pant
 📧 Email: piyushpant64@gmail.com
-📍 Location: Your Location
+📍 Location: delhi
 
 🛠 Languages and Tools
 🔸 Programming:Python, Java script, SQL
